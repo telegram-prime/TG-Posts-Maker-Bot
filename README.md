@@ -4,7 +4,7 @@
 ## If you work with Telegram mass DM, T4BT is your indispensable assistant. This bot will help you create unique messages for mass distribution.
  
  * Описание программы так же доступно на русском языке. См. [T4BT - TG Posts Maker Bot RU](https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU)
- * 描述也可以在Chineese中提供。 参见 [T4BT - TG Posts Maker Bot CN](https://github.com/telegram-prime/TG-Posts-Maker-Bot-CN) [In progress]
+ * 描述也可以在Chineese中提供。 参见 [T4BT - TG Posts Maker Bot CN](https://github.com/telegram-prime/TG-Posts-Maker-Bot-CN)
 
 
 ## What T4BT Bot can do.
