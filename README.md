@@ -8,27 +8,31 @@
 
 
 ## What T4BT Bot can do.
- - Creating a post(s) with content:
-   * text message;
-   * image;
-   * regular video;
-   * video in a circle;
-   * GIF animation;
-   * audio file;
-   * voice message.
- - Ability to set a description for each media file being sent.
+- Creating a post(s) with content:
+     * text message;
+     * image;
+     * The video is ordinary;
+     * video circle;
+     * GIF animation;
+     * audio file;
+     * a voice message;
+     * document PDF, DOCX, XSLX, TXT;
+     * Any other file format.
+ - Option to start many bots at the same time and control them from the interface of the program.
+ - Option to set the number of unsuccessful attempts to issue a post to the sending account.
+ - Option to set a description for each media file being sent.
  - In the description to the media file, as well as simply in a text post, spintax is supported, format: `{Text_1|Text_2|Text_3|Text_4}`.
  - MARKDOWN format is also supported to create a hyperlink in the description to the media file or in a regular text post, format `[Link Text](https://www.example.com)`.
  - Ability to create a post with buttons under the post, as well as without buttons.
  - Ability to select the number of buttons per post, as well as the number of buttons in a row.
  - When creating buttons, spintax is supported, format: `{Button1|Button2} | {{https|http}://example1.com/|{https|http}://example2.com/}`. Data for generating a button can be sent both as text to the bot and as a text file (to create a large volume of posts).
- - Ability to add a random variable to each link in the button in the form of `https://example1.com?jd73hddsk83`.
- - Ability to create a link to a message to go to a post in the form: `https://t.me/YourBotName_bot?start=c747ca0a61d46131`.
- - Ability to separately create a default post (aka default post) for the bot. Those. at any transition to the bot (directly by username), each visitor will be shown this post. It may differ from those created posts that are intended for mailing.
- - Ability to run the bot through a proxy.
- - Ability to run the bot for a specified period of time.
+ - Option to add a random variable to each link in the button in the form of `https://example1.com?jd73hddsk83`.
+ - Option to create a link to a message to go to a post in the form: `https://t.me/YourBotName_bot?start=c747ca0a61d46131`.
+ - Option to separately create a default post (aka default post) for the bot. Those. at any transition to the bot (directly by username), each visitor will be shown this post. It may differ from those created posts that are intended for mailing.
+ - Option to run the bot through a proxy.
+ - Option to run the bot for a specified period of time.
  - Multi-access to the post database on one PC, i.e. the database of created posts can be accessed from any running bot on the same machine.
- - Ability to run multiple bots on the same PC.
+ - Option to run multiple instances of the software on the same PC.
  - Binding the key to the hardware, with the ability to reset the key. Reset is free.
  - Detailed step-by-step instructions inside the bot.
  - The bot is available in four languages: 🇺🇸 🇷🇺 🇪🇸 🇨🇳.
@@ -73,18 +77,13 @@
 
 ## Screenshots:
 
-
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/32f2bb2d-946c-45e2-817e-ddc3ae196752" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/4ed2f1b0-c4f9-463c-a1d6-e867d936b8f9" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/37611e3e-3246-438e-94bf-4e06229d78a8" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/72c2d104-5b4f-4e48-934f-92cc4b57ceec" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/26849652-e03b-4720-b576-63d7e1ebe883" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/f6159d53-1b37-46fc-8627-488a5abf22c8" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/a43a3b5c-4fc3-42cf-b9a7-bc9bf12c8ec8" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/f5cb88c5-62fa-4f16-962e-51d4bbdb3ee3" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/58f124be-9cb5-432b-93ee-afba6f5d77e5" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/7bebc3e8-e0ea-4691-ba33-502766ac91ef" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/977d1a25-1746-40cf-87d1-33924bf44838" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/3a65c150-2314-4002-91e5-333b601edb2c" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/7078bc67-dfef-4de3-8859-21c4bf922ad4" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/5f38a3a8-a43c-40cf-a50b-9c263bf9be3a" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/38d8acbf-2b86-46f8-9153-e686202dd96b" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/1805e348-4f7c-4db0-ab7c-83bff1b2e57a" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/c12938b9-7eb1-477f-9b64-3f290b835307" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/4b1f9e2e-bf05-47f1-a14d-a309270d6751" width="200" height="200">
 
 
 
@@ -104,4 +103,5 @@
 ## Donations:
 * [Buy us a coffee :)](https://nowpayments.io/donation/telegramprime)
 * Thank you!
+
 
