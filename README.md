@@ -21,14 +21,16 @@
  - Option to start many bots at the same time and control them from the interface of the program.
  - Option to set the number of unsuccessful attempts to issue a post to the sending account.
  - Option to set a description for each media file being sent.
+ - Option to use multiple channels as a source for media for creating posts.
  - In the description to the media file, as well as simply in a text post, spintax is supported, format: `{Text_1|Text_2|Text_3|Text_4}`.
  - MARKDOWN format is also supported to create a hyperlink in the description to the media file or in a regular text post, format `[Link Text](https://www.example.com)`.
- - Ability to create a post with buttons under the post, as well as without buttons.
- - Ability to select the number of buttons per post, as well as the number of buttons in a row.
+ - Option to create a post with buttons under the post, as well as without buttons.
+ - Option to select the number of buttons per post, as well as the number of buttons in a row.
  - When creating buttons, spintax is supported, format: `{Button1|Button2} | {{https|http}://example1.com/|{https|http}://example2.com/}`. Data for generating a button can be sent both as text to the bot and as a text file (to create a large volume of posts).
  - Option to add a random variable to each link in the button in the form of `https://example1.com?jd73hddsk83`.
  - Option to create a link to a message to go to a post in the form: `https://t.me/YourBotName_bot?start=c747ca0a61d46131`.
  - Option to separately create a default post (aka default post) for the bot. Those. at any transition to the bot (directly by username), each visitor will be shown this post. It may differ from those created posts that are intended for mailing.
+ - Option to post ready made randomized posts to a dedicated channels for further forwarding.
  - Option to run the bot through a proxy.
  - Option to run the bot for a specified period of time.
  - Multi-access to the post database on one PC, i.e. the database of created posts can be accessed from any running bot on the same machine.
@@ -77,10 +79,10 @@
 
 ## Screenshots:
 
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/3a65c150-2314-4002-91e5-333b601edb2c" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/7078bc67-dfef-4de3-8859-21c4bf922ad4" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/5f38a3a8-a43c-40cf-a50b-9c263bf9be3a" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/38d8acbf-2b86-46f8-9153-e686202dd96b" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/228a90d7-8a34-43f6-ba2a-56f59116cea9" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/13b16817-de34-42b9-85a3-475ae295479f" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/8eef778b-c0df-4c49-aa41-e62010f3ec05" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/518d05ad-416d-43e9-b67f-1995e1eff1a0" width="200" height="200">
 <img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/1805e348-4f7c-4db0-ab7c-83bff1b2e57a" width="200" height="200">
 <img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/c12938b9-7eb1-477f-9b64-3f290b835307" width="200" height="200">
 <img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot/assets/94137664/4b1f9e2e-bf05-47f1-a14d-a309270d6751" width="200" height="200">
@@ -94,7 +96,6 @@
 
 - Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.net/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.net/icq-contact)
 - TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.net/discord-contact)
 - Element:  [Send message](https://telegramprime.net/element-contact)
